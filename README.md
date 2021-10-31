@@ -3,4 +3,4 @@
  - A program to generate random numbers b/w 0 to 10 using time 
  - it uses python's in-built module ```datetime```
  - and an equation which returns a value from 0 to 10 for any given integer 
-   ``` any num * 8 % = any num b/w o to 10```
+   ``` any num * 8 % 11 = any num b/w o to 10```
