@@ -4,3 +4,9 @@
  - it uses python's in-built module ```datetime```
  - and an equation which returns a value from 0 to 10 for any given integer 
    ``` any num * 8 % 11 = any num b/w o to 10```
+# Method
+```
+import Random
+Random.randomnum()
+```
+- this Random.py file should be in the current working directory 
